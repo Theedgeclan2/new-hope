@@ -1,9 +1,9 @@
 { 
   "debug" : false,
-  "token"  : "your token here",
+  "token"  : "NTI0OTg0MTk4NjU0NzIyMDY0.Dvzf6g._H-Txjz3uLf35Lchq2lixjlqBkU",
   "apiSite" : 1,
-  "apiUrl" : "https://full uri here",
-  "enableRcon" : "1",
+  "apiUrl" : " https://api.rust-servers.info/status/1973",
+  "enableRcon" : "0",
   "rconhost"   : "",
   "rconport"   : "",
   "rconpass"   : "",

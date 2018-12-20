@@ -114,5 +114,5 @@ client.login(process.env.token || config.token);
 
 var http = require("http");
 setInterval(function() {
-    http.get("https://a-new-hope-1.herokuapp.com");
+    http.get("https://mufin.herokuapp.com");
 }, 300000); // every 5 minutes (300000)
